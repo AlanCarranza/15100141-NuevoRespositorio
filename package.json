@@ -1,0 +1,23 @@
+{
+  "name": "sagasport",
+  "version": "1.0.0",
+  "description": "Proyecto de ventas html",
+  "main": "Index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanCarranza/15100141-SAGAsport.git"
+  },
+  "author": "AlanCarranza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanCarranza/15100141-SAGAsport/issues"
+  },
+  "homepage": "https://github.com/AlanCarranza/15100141-SAGAsport#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}

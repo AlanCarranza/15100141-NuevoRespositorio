@@ -1,0 +1,17 @@
+.diseño-del-flex{
+    flex: 1 250px;
+    padding: 2px 5px 2px 5px;
+    margin-top: 15px;
+}
+footer{
+    padding: 10px 20px 0px 20px;
+    background-color: dimgray;
+    margin-bottom: 0px;
+    margin-top: 30px;
+}
+.jumbotron{
+    background-color: dimgray;
+}
+.btn-dark{
+    width: 100%;
+}
